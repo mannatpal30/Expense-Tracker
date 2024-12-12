@@ -25,4 +25,4 @@ Admin Analysis Dashboard:
 Admin users have access to an admin analysis dashboard, where they can monitor overall user activity, perform financial analysis, and generate reports on income and expenses for better oversight.
 Data Export:
 
-Users can export their financial data (e.g., CSV, PDF) for offline use or further analysis.
+
